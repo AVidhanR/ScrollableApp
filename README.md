@@ -7,4 +7,4 @@ https://github.com/AVidhanR/Scrollable-App/assets/116101537/f5f7b847-7598-4649-8
 
 ### Video demonstration of my project.
 
-[`App icon`]()
+[`App icon`](AppIconImage.png)
