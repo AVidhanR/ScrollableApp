@@ -7,4 +7,5 @@ https://github.com/AVidhanR/Scrollable-App/assets/116101537/f5f7b847-7598-4649-8
 
 ### Video demonstration of my project.
 
-[`App icon`](AppIconImage.png)
+
+![Screenshot 2023-12-17 103827](https://github.com/AVidhanR/Scrollable-App/assets/116101537/c6568ad6-e056-4dda-ac07-c0744c44bcbd)
