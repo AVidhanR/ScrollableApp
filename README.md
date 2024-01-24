@@ -1,5 +1,5 @@
 ## Scrollable-App
-<p>ScrollableApp, a mobile gem, uses Google's Jetpack Compose for a sleek UI. Its form meets function, offering polished, responsive scrolling, showcasing Compose's dynamic UI prowess.</p>
+ScrollableApp, a mobile gem, uses Google's Jetpack Compose for a sleek UI. Its form meets function, offering polished, responsive scrolling, showcasing Compose's dynamic UI prowess.
 > Using Jetpack Compose and Kotlin.
  Checkout the source code from this path : 
  [`Main Source Code`](https://github.com/AVidhanR/Scrollable-App/blob/master/app/src/main/java/com/example/affirmations/MainActivity.kt)
